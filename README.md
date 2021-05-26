@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praven-eng
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning computer aided designing
+- 🌱 I’m currently learning computer Aided Designing
 
 
 <!---
