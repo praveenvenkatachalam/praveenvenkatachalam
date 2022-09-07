@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveen
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning computer Aided Designing
+
 
 
 <!---
