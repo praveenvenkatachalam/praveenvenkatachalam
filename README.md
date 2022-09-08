@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praveen
+- 👋 Hi, I’m praveen
 - 👀 I’m interested in web programming
 
 
